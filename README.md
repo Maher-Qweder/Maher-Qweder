@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:maherqweder@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://www.linkedin.com/in/maher-qweder/&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/maher-qweder/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
