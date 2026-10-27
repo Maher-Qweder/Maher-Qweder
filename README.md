@@ -91,12 +91,12 @@ A small bonus from my cybersecurity background:
 
 ---
 
-## 📊 GitHub Stats
+📫 Let's Connect
 
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Maher-Qweder&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maher-Qweder&layout=compact&theme=tokyonight&hide_border=true" /> </p>
-
----
-
+I'm open to entry-level software developer roles. Feel free to reach out at maherqweder@outlook.com
 <p align="center">
+
+  ---
+  
   <i>Always learning, always building. 🚀</i>
 </p>
