@@ -57,6 +57,10 @@
 
 ### 🔐 Secure Corporate Financial Portal (SCFP): Graduation Project
 
+> 🔒 Source code is kept private. Happy to walk through it in an interview.
+
+🎥 **Demo Video:** [Watch on YouTube](https://www.youtube.com/watch?v=sTjr8P0XRbI)
+
 A cloud-native financial web portal built with security in mind from the start.
 
 - **Stack:** Python, Flask, SQLAlchemy, HTML5, Bootstrap 5, Microsoft Azure
